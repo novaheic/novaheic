@@ -19,6 +19,6 @@
 ## GitHub Stats
 
 <!-- Replace "novaheidt" only if your GitHub username is different -->
-![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novaheic&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novaheic&layout=compact&theme=default&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novaheic&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novaheic&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=novaheic&theme=default&hide_border=true)
