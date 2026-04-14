@@ -1,11 +1,11 @@
-# Hi, I'm Nova Heidt
+# Hey, I'm Nova
 
 I am a growing developer who enjoys building practical projects, learning by doing, and improving with each new challenge. Right now I am focused on writing clean, simple solutions, getting better at design and planning, and sharing progress publicly.
 
 ## Connect
 
-- Portfolio: [Your Portfolio](https://novaheic.github.io/)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nova-heidt/)
+- Portfolio: [Portfolio](https://novaheic.github.io/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nova-heidt/)
 - Contact: `novaheidt [at] gmail [dot] com`
 
 ## Skills
