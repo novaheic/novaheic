@@ -1,8 +1,6 @@
-# Hey, I'm Nova
+# Hey, I'm Nova 👋🏻
 
-I am a growing developer who enjoys building practical projects, learning by doing, and improving with each new challenge. Right now I am focused on writing clean, simple solutions, getting better at design and planning, and sharing progress publicly.
-
-## Connect
+## Links
 
 - Portfolio: [Portfolio](https://novaheic.github.io/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nova-heidt/)
@@ -21,6 +19,6 @@ I am a growing developer who enjoys building practical projects, learning by doi
 ## GitHub Stats
 
 <!-- Replace "novaheidt" only if your GitHub username is different -->
-![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novaheidt&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novaheidt&layout=compact&theme=default&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=novaheidt&theme=default&hide_border=true)
+![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novaheic&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=novaheic&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=novaheic&theme=default&hide_border=true)
