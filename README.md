@@ -1,4 +1,4 @@
-# Hey, I'm Nova 👋🏻
+# Hey, how's goin'? I'm Nova 👋🏻
 
 ## Links
 
